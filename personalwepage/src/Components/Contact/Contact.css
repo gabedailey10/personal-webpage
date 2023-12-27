@@ -1,0 +1,17 @@
+.container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    height: 100vh;
+}
+
+.form {
+    background-color: white;
+    display: flex;
+    flex-direction: column;
+}
+.email {
+    width: 20vh;
+    height: 10vh;
+    border-radius: 10px;
+}
